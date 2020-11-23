@@ -20,7 +20,7 @@ To provide a profitable portfolio I need to accomplish six main tasks:
 
 3. [Performance Analysis](#Performance-Analysis): Pick the stocks with the most successful track record in the past 3 years.
 
-4. [Portfolio Creation & Analysis](#Portfolio-Creation-&-Analysis): Create a portfolio with the best-performing companies.
+4. [Portfolio Creation and Analysis](#Portfolio-Creation-and-Analysis): Create a portfolio with the best-performing companies.
 
 5. [Forecasting](#Forecasting): Find the estimated range of return of investment the portfolio can deliver in 3 years.
 
@@ -60,7 +60,7 @@ To provide a profitable portfolio I need to accomplish six main tasks:
 
 * __Observation__: In the top 10 companies that IPO'ed in 2017, the Health Care and Technology sectors have the highest amount of companies with 4 companies which performed very well. Finance and Consumer Services sector represented 1 company each that performed well.
 
-### Portfolio Creation & Analysis
+### Portfolio Creation and Analysis
 
 ![portfolio.png](Images/portfolio.png)
 
