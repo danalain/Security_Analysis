@@ -70,7 +70,9 @@ To provide a profitable portfolio I need to accomplish six main tasks:
 
 ### Forecasting
 
-<img src="Images/portfolio_simulation.png" />
+| 1000 Simulations of Cumulative Portfolio Return Trajectories Over the Next 756 Trading Days |
+| ------------------------------------------------------------------------------------------- |
+| <img src="Images/portfolio_simulation.png" /> |
 
 * __Method__: Using the Monte Carlo simulation, the cumulative returns of the portfolio is computed 1000 times for the next 3 years.
 
