@@ -82,7 +82,9 @@ To provide a profitable portfolio I need to accomplish six main tasks:
 
 ### Dashboard
 
-![dashboard.gif](Images/dashboard.gif)
+| Dashboard Example GIF |
+| --------------------- |
+| ![dashboard.gif](Images/dashboard.gif) |
 
 * __Method__: Using the panel library, the Holoviews charts are compiled into tabs to showcase the dashboard that has the portfolio data charts, and the individual stock data charts.
 
