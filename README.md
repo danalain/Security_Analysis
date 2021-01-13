@@ -36,7 +36,9 @@ To provide a profitable portfolio I need to accomplish six main tasks:
 
 ### Data Modeling
 
-![Excel](Images/excel_pivot.PNG)
+| Pivot Table Using Microsoft Excel |
+| --------------------------------- |
+| ![Excel](Images/excel_pivot.PNG) |
 
 * __Method__: From the [nasdaq_companies.csv](data/nasdaq_companies.csv), a Pivot table is created using Microsoft excel to identify the companies that went public in 2017.
 
